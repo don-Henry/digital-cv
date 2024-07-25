@@ -1,8 +1,8 @@
 # Your Name
 Henry Obinna Ejimba
 > Contact Information
-- Email: your-email@example.com
-- Phone: +1-123-456-7890
+- Email: henrybabwe@gmail.com
+- Phone: +393791310362
 - LinkedIn: linkedin.com/in/yourname
 - GitHub: github.com/don-Henry
 
@@ -47,6 +47,6 @@ A brief description about yourself and your career objectives.
 - Certification 3
 
 ## Languages
-- Language 1
-- Language 2
-- Language 3
+- Language 1 : English  
+- Language 2 : Italian
+- Language 3 : French
